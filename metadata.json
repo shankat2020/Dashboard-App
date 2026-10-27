@@ -1,0 +1,6 @@
+{
+  "name": "TailorTrack Sales Intelligence",
+  "description": "Interactive multi-dimensional sales analytics and visualization platform for apparel revenue, payment trends, and product performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
